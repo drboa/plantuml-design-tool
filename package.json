@@ -2,7 +2,7 @@
   "name": "plantuml-design-tool",
   "main": "./lib/plantuml-design-tool",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "This package integrates PlantUML into Atom providing useful functionality, such as code snippets and a syntax highlighter",
   "keywords": [
   ],
   "activationCommands": {
