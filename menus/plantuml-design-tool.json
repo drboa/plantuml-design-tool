@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle plantuml-design-tool",
+        "command": "plantuml-design-tool:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "plantuml-design-tool",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "plantuml-design-tool:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
